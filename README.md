@@ -1,6 +1,6 @@
-# Single Page CV - Kabita Narzary
+# Single Page CV
 
-This is my Roadmap.sh project: Single-Page CV using semantic HTML and CSS.
+This project is part of the Roadmap.sh Single-Page CV challenge.
 
 ## Live Project URL
-[https://78kabita.github.io/single-page-cv/](https://78kabita.github.io/single-page-cv)
+https://78kabita.github.io/single-page-cv/
